@@ -1,6 +1,6 @@
 ## 📌 1-2. MySQL 설치하기
-초기 작성일: Fri Jan 17, 2025
-마지막 작성일: Fri Jan 17, 2025
+초기 작성일: Fri Jan 17, 2025<br/>
+마지막 작성일: Fri Jan 18, 2025
 
 1. `brew update`
 2. `brew install mysql`  // 여기까지 설치 과정
